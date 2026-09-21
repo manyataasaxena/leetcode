@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manyataasaxena/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manyataasaxena/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
 | ------- |
@@ -44,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/manyataasaxena/leetcode/tree/master/0007-reverse-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
