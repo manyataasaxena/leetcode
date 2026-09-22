@@ -46,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/manyataasaxena/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/manyataasaxena/leetcode/tree/master/0009-palindrome-number) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
