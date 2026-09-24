@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manyataasaxena/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/manyataasaxena/leetcode/tree/master/0011-container-with-most-water) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manyataasaxena/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/manyataasaxena/leetcode/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/manyataasaxena/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manyataasaxena/leetcode/tree/master/0009-palindrome-number) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/manyataasaxena/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
