@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manyataasaxena/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/manyataasaxena/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/manyataasaxena/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/manyataasaxena/leetcode/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/manyataasaxena/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/manyataasaxena/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/manyataasaxena/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/manyataasaxena/leetcode/tree/master/0037-sudoku-solver) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manyataasaxena/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/manyataasaxena/leetcode/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -162,4 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/manyataasaxena/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/manyataasaxena/leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/manyataasaxena/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/manyataasaxena/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
