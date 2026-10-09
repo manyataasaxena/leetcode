@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/manyataasaxena/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/manyataasaxena/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/manyataasaxena/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/manyataasaxena/leetcode/tree/master/0040-combination-sum-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manyataasaxena/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/manyataasaxena/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/manyataasaxena/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/manyataasaxena/leetcode/tree/master/0040-combination-sum-ii) |
 ## Linked List
 |  |
 | ------- |
