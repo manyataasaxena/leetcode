@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/manyataasaxena/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/manyataasaxena/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/manyataasaxena/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/manyataasaxena/leetcode/tree/master/0051-n-queens) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/manyataasaxena/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manyataasaxena/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/manyataasaxena/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/manyataasaxena/leetcode/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/manyataasaxena/leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/manyataasaxena/leetcode/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
