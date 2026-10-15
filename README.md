@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/manyataasaxena/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/manyataasaxena/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/manyataasaxena/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/manyataasaxena/leetcode/tree/master/0053-maximum-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manyataasaxena/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/manyataasaxena/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/manyataasaxena/leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/manyataasaxena/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/manyataasaxena/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/manyataasaxena/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/manyataasaxena/leetcode/tree/master/0053-maximum-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
