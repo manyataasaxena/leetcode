@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/manyataasaxena/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/manyataasaxena/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/manyataasaxena/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/manyataasaxena/leetcode/tree/master/0066-plus-one) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/manyataasaxena/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/manyataasaxena/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/manyataasaxena/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/manyataasaxena/leetcode/tree/master/0066-plus-one) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
