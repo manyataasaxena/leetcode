@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/manyataasaxena/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manyataasaxena/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/manyataasaxena/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/manyataasaxena/leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/manyataasaxena/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/manyataasaxena/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/manyataasaxena/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/manyataasaxena/leetcode/tree/master/0069-sqrtx) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/manyataasaxena/leetcode/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/manyataasaxena/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
