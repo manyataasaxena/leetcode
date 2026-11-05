@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/manyataasaxena/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/manyataasaxena/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/manyataasaxena/leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/manyataasaxena/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/manyataasaxena/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/manyataasaxena/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/manyataasaxena/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/manyataasaxena/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -344,4 +346,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/manyataasaxena/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manyataasaxena/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manyataasaxena/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manyataasaxena/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
