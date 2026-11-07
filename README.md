@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/manyataasaxena/leetcode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/manyataasaxena/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -355,14 +356,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/manyataasaxena/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/manyataasaxena/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/manyataasaxena/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/manyataasaxena/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/manyataasaxena/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/manyataasaxena/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/manyataasaxena/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/manyataasaxena/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/manyataasaxena/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
