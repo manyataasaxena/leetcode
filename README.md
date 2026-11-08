@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/manyataasaxena/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/manyataasaxena/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/manyataasaxena/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/manyataasaxena/leetcode/tree/master/0100-same-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/manyataasaxena/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/manyataasaxena/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/manyataasaxena/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/manyataasaxena/leetcode/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -373,4 +375,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/manyataasaxena/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/manyataasaxena/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/manyataasaxena/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/manyataasaxena/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/manyataasaxena/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
