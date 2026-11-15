@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/manyataasaxena/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/manyataasaxena/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/manyataasaxena/leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/manyataasaxena/leetcode/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/manyataasaxena/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/manyataasaxena/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/manyataasaxena/leetcode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/manyataasaxena/leetcode/tree/master/0115-distinct-subsequences) |
 | [3524-find-x-value-of-array-i](https://github.com/manyataasaxena/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
